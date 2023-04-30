@@ -4,6 +4,8 @@
 
 ## Features
 
+<img src="/login.png" width="45%"></img> <img src="/login_dark.png" width="45%"></img> <img src="/dashboard.png" width="45%"></img> <img src="/dashboard_dark.png" width="45%"></img> 
+
 - **Sign-up** and **Login** pages
 - A **dashboard** that presents cards of all 400 Pokemons from Scarlet and Violet games.
     - Add Pokemon to shiny collection and track them.
