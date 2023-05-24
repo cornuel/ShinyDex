@@ -1,4 +1,4 @@
-# ShinyDex
+# [ShinyDex](https://cornuel.github.io/ShinyDex/)
 
 [ShinyDex](https://cornuel.github.io/ShinyDex/) is a living Scarlet and Violet Pokedex that allows users to manage their shiny Pokemon collection.
 
@@ -14,13 +14,13 @@
 
 ## Built using
 
-### Backend **Django**
+### Backend **Django** (repo [here](https://github.com/cornuel/ShinyDex_backend))
 
 - **Django**
 - **Django REST framework**: To build the API endpoints for user authentication (signup/login) and to interact with the Firebase database.
 - **Pyrebase4**: A Python wrapper for the Firebase Realtime Database API used to authenticate users and manage user data.
 
-### Frontend **Vue.js**
+### Frontend **Vue.js** (repo [here](https://github.com/cornuel/ShinyDex_frontend))
 
 - **Pinia**: A state management library used to define a user store that contains the user's token, login with getters and setters.
 - **Tailwind**: for UI developement productivity and consistency across components.
