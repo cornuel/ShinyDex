@@ -2,6 +2,10 @@
 
 [ShinyDex](https://cornuel.github.io/ShinyDex/) is a living Scarlet and Violet Pokedex that allows users to manage their shiny Pokemon collection.
 
+**Demo Account**
+- Email: demo@example.com
+- Password: Demo1234$
+
 <img src="/login.png" width="45%"></img> <img src="/login_dark.png" width="45%"></img> <img src="/dashboard.png" width="45%"></img> <img src="/dashboard_dark.png" width="45%"></img> 
 
 ## Features
